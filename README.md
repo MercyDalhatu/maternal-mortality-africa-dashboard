@@ -45,6 +45,7 @@ World Bank Maternal Mortality Ratio data (indicator `SH.STA.MMRT`), narrowed to 
 | `Slides_Maternal_Mortality.pptx` | Full summary deck |
 | `trend-overview.png` | Page 1 of the Power BI dashboard |
 | `nigeria-deep-dive.png` | Page 2 of the Power BI dashboard |
+| `Capstone_Maternal_Mortality.pbix` | Full interactive Power BI report file |
 
 ## Author
 
